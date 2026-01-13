@@ -14,7 +14,7 @@ The repository includes:
 The experiment code used for stimulus presentation and data collection is
 included in this repository.
 
-### DecodingAnalysis/
+### DecodingAnalysis
 All post-experiment analyses are located in the `DecodingAnalysis/` folder.
 
 The notebooks implement decoding, permutation tests, statistical analyses,

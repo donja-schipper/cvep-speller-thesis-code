@@ -66,12 +66,12 @@ Expected folders under `ROOT`:
 - `DecodingAnalysis/Results/questionnaire/` (input CSV for comfort analysis)
 
 Recommended notebook run order:
-1. `01_permutations.ipynb`
-2. `02_decoding.ipynb`
-3. `03_anova_performance.ipynb`
-4. `04_anova_comfort.ipynb`
-5. `05_vep_reconvolution.ipynb`
-6. `06_figures.ipynb`
+1. `permutations.ipynb`
+2. `decoding.ipynb`
+3. `anova_performance.ipynb`
+4. `anova_comfort.ipynb`
+5. `vep_reconvolution.ipynb`
+6. `figures.ipynb`
 
 ## Dependencies and acknowledgements
 

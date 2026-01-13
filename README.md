@@ -47,6 +47,7 @@ pip install -r requirements.txt
 To run the experiment code in this repository:
 
 ```bash
+cd speller
 python -m speller.cvep_speller.speller
 ```
 

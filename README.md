@@ -15,7 +15,7 @@ The experiment code used for stimulus presentation and data collection is
 included in this repository.
 
 ### DecodingAnalysis
-All post-experiment analyses are located in the `DecodingAnalysis/` folder.
+All post-experiment analyses are located in the `DecodingAnalysis` folder.
 
 The notebooks implement decoding, permutation tests, statistical analyses,
 and figure generation used in the thesis.
@@ -24,8 +24,8 @@ and figure generation used in the thesis.
 
 ## Data and results
 
-Raw data and analysis outputs are **not included** in this repository.
-The folders `DecodingAnalysis/Data/` and `DecodingAnalysis/Results/` are expected
+Raw data is **not included** in this repository.
+The folders `DecodingAnalysis/Data/` is expected
 to exist locally.
 
 ---
@@ -44,7 +44,7 @@ conda activate thesis_code
 pip install -r requirements.txt
 ```
 
-To run the experiment code in this repository:
+To run the experiment code in this repository, use:
 
 ```bash
 cd speller
@@ -95,6 +95,3 @@ software and publications.
 
 In addition, analyses rely on standard scientific Python libraries, including:
 NumPy, pandas, scikit-learn, SciPy, pingouin, statsmodels, Matplotlib, and seaborn.
-
-
-
